@@ -38,7 +38,7 @@ export default function App() {
     } catch (err) {
       alert(`[ERRO SOCKET] => ${err.message}`);
     }
-  }, []);
+  }, [socket]);
   /*******************************/
 
   return <Container />;
