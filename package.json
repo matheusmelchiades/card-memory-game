@@ -19,10 +19,6 @@
       "email": "wellisson.bastos@outlook.com"
     }
   ],
-  "engines": {
-    "node": "12.x",
-    "yarn": "^1.x"
-  },
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
